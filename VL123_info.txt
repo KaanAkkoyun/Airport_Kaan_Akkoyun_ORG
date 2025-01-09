@@ -1,0 +1,6 @@
+Vluchtcode: VL123
+Bestemming: Amsterdam
+Aantal passagiers: 0
+Aantal personeel: 2
+
+--- Passagiers ---
